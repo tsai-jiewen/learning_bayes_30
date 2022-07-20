@@ -10,7 +10,7 @@ nav:
         - Jupyter: Untitled1.ipynb
     
 theme: 
-  name: mkdocs
+  name: readthedocs
   features:
     - navigation.sections
 markdown_extensions:
@@ -27,7 +27,7 @@ plugins:
   - mkdocs-jupyter
   - search
   - autolinks
-  - with-pdf
+  - pdf-export
 
   
 extra_javascript:
