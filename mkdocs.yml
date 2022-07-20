@@ -1,11 +1,11 @@
-site_name: Lab 393 Weekly
-site_url: https://lab393weekly.readthedocs.io
+site_name: Learning Bayes 30 Days
+site_url: 
 site_author: JW Tsai
 nav:
-    - 'The Level 1':
+    - Part 1:
         - Home: index.md
         - About: about.md
-    - The Level 2:
+    - Part 2:
         - How to: howto.md
         - Jupyter: Untitled1.ipynb
     
