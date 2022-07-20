@@ -1,0 +1,35 @@
+site_name: Lab 393 Weekly
+site_url: https://lab393weekly.readthedocs.io
+site_author: JW Tsai
+nav:
+    - 'The Level 1':
+        - Home: index.md
+        - About: about.md
+    - The Level 2:
+        - How to: howto.md
+        - Jupyter: Untitled1.ipynb
+    
+theme: 
+  name: readthedocs
+  features:
+    - navigation.sections
+markdown_extensions:
+    - extra
+    - smarty
+    - toc:
+        permalink: []
+    - admonition
+    - def_list
+    - footnotes
+    - tables
+
+plugins:
+  - mkdocs-jupyter
+  - search
+  - autolinks
+
+  
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
