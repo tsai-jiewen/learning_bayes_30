@@ -4,13 +4,13 @@ site_author: JW Tsai
 nav:
     - Preface: preface.md
     - Part 1 Introduction:
-        - Day1
+        - Day1: howto.md
         - About: about.md
     - Part 2 linear model:
         - How to: howto.md
         - Jupyter: Untitled1.ipynb
     - Part 3 psychometric models:
-        - FA
+        - FA: howto.md
         
     
 theme: 
