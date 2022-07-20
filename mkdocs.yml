@@ -2,7 +2,7 @@ site_name: Learning Bayes 30 Days
 site_url: 
 site_author: JW Tsai
 nav:
-        - Preface: preface.md
+    - Preface: preface.md
     - Part 1 Introduction:
         - Day1
         - About: about.md
