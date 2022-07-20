@@ -27,6 +27,7 @@ plugins:
   - mkdocs-jupyter
   - search
   - autolinks
+  - with-pdf
 
   
 extra_javascript:
